@@ -1,0 +1,30 @@
+{
+  "name": "awesome-resume",
+  "version": "1.0.0",
+  "description": "wushaolin's resume",
+  "main": "index.js",
+  "dependencies": {
+    "swiper": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codevvvv9/awesome-resume.git"
+  },
+  "author": "wushaolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codevvvv9/awesome-resume/issues"
+  },
+  "homepage": "https://github.com/codevvvv9/awesome-resume#readme"
+}
